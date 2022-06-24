@@ -8,7 +8,7 @@ export default[
             city:"Pelourinho-Salvador",
             link:"https://goo.gl/maps/XSBdWsZgawNxLsGg6"
         },
-        description:"Mount Fuji is the tallest mountain in Japan, standing at 3,776 meters (12,380 feet). Mount Fuji is the single most popular tourist site in Japan, for both Japanese and foreign tourists.",
+        description:"A beautiful place that preserves Brazilian history and culture. With wonderfull beachs, clean waters and a great sun. A lot of musician are playing brazilian songs in the city. Today Pelourinho is known as the place that houses the richest baroque architectural ensemble in Salvador.",
         date:{
             startDay:12,
             startMonth:"Jan",
@@ -27,7 +27,7 @@ export default[
             city:"Brasilia-DF",
             link:"https://goo.gl/maps/AoeTpwSoJUB47oCd6"
         },
-        description:"Mount Fuji is the tallest mountain in Japan, standing at 3,776 meters (12,380 feet). Mount Fuji is the single most popular tourist site in Japan, for both Japanese and foreign tourists.",
+        description:"Brazilian Capital. Where i lived my whole life. This city is famous to have one of the most beautifull skys in Brazil. With great architectures that compose the center of Brasília build mainly by Oscar Niemeyer.",
         date:{
             startDay:25,
             startMonth:"Dec",
@@ -46,7 +46,7 @@ export default[
             city:"Porto de Galinhas-RE",
             link:"https://goo.gl/maps/JZJDpjjKknQswm879"
         },
-        description:"Mount Fuji is the tallest mountain in Japan, standing at 3,776 meters (12,380 feet). Mount Fuji is the single most popular tourist site in Japan, for both Japanese and foreign tourists.",
+        description:"Porto de Galinhas is considered one of the best beaches in Brazil, being frequented by surfers and tourists from different countries.The Porto de Galinhas Handicraft Fair is the best option for those who want to shop for souvenirs",
         date:{
             startDay:4,
             startMonth:"Mar",
